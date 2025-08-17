@@ -1,0 +1,183 @@
+{
+  "products": {
+    "productA1": {
+      "title": "Product A1",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Ini adalah deskripsi lengkap untuk Produk A1. Dapatkan harga terbaik dan penawaran spesial hanya di toko kami. Produk ini tersedia dengan berbagai pilihan harga.",
+      "prices": [
+        { "name": "50 Diamonds", "value": "Rp 10.000", "link": "#" },
+        { "name": "100 Diamonds", "value": "Rp 20.000", "link": "#" },
+        { "name": "200 Diamonds", "value": "Rp 40.000", "link": "#" },
+        { "name": "500 Diamonds", "value": "Rp 100.000", "link": "#" },
+        { "name": "1000 Diamonds", "value": "Rp 200.000", "link": "#" },
+        { "name": "2000 Diamonds", "value": "Rp 400.000", "link": "#" },
+        { "name": "5000 Diamonds", "value": "Rp 1.000.000", "link": "#" },
+        { "name": "10000 Diamonds", "value": "Rp 2.000.000", "link": "#" }
+      ]
+    },
+    "productA2": {
+      "title": "Product A2",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi panjang untuk Produk A2. Kualitas terbaik dengan harga terjangkau. Cocok untuk semua kebutuhan Anda.",
+      "prices": [
+        { "name": "Item 1", "value": "Rp 5.000", "link": "#" },
+        { "name": "Item 2", "value": "Rp 8.000", "link": "#" },
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" }
+      ]
+    },
+    "productA3": {
+      "title": "Product A3",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Detail lengkap Produk A3. Nikmati fitur premium dengan harga spesial. Beli sekarang juga!",
+      "prices": [
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
+        { "name": "Paket Pro", "value": "Rp 50.000", "link": "#" }
+      ]
+    },
+    "productA4": {
+      "title": "Product A4",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk A4.",
+      "prices": [
+        { "name": "1 Unit", "value": "Rp 1.000", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" }
+      ]
+    },
+    "productA5": {
+      "title": "Product A5",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk A5.",
+      "prices": [
+        { "name": "Paket X", "value": "Rp 15.000", "link": "#" },
+        { "name": "Paket Y", "value": "Rp 30.000", "link": "#" }
+      ]
+    },
+    "productA6": {
+      "title": "Product A6",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk A6.",
+      "prices": [
+        { "name": "Langganan Bulanan", "value": "Rp 75.000", "link": "#" },
+        { "name": "Langganan Tahunan", "value": "Rp 750.000", "link": "#" }
+      ]
+    },
+    "productB1": {
+      "title": "Product B1",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk B1.",
+      "prices": [
+        { "name": "Opsi 1", "value": "Rp 2.500", "link": "#" },
+        { "name": "Opsi 2", "value": "Rp 5.000", "link": "#" },
+        { "name": "Opsi 3", "value": "Rp 10.000", "link": "#" }
+      ]
+    },
+    "productB2": {
+      "title": "Product B2",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk B2.",
+      "prices": [
+        { "name": "Promo B2", "value": "Rp 5.000", "link": "#" },
+        { "name": "Standar B2", "value": "Rp 7.500", "link": "#" }
+      ]
+    },
+    "productB3": {
+      "title": "Product B3",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk B3.",
+      "prices": [
+        { "name": "Small", "value": "Rp 1.000", "link": "#" },
+        { "name": "Medium", "value": "Rp 2.000", "link": "#" },
+        { "name": "Large", "value": "Rp 3.000", "link": "#" }
+      ]
+    },
+    "productB4": {
+      "title": "Product B4",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk B4.",
+      "prices": [
+        { "name": "Opsi A", "value": "Rp 20.000", "link": "#" },
+        { "name": "Opsi B", "value": "Rp 35.000", "link": "#" }
+      ]
+    },
+    "productB5": {
+      "title": "Product B5",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk B5.",
+      "prices": [
+        { "name": "Level 1", "value": "Rp 5.000", "link": "#" },
+        { "name": "Level 2", "value": "Rp 9.000", "link": "#" },
+        { "name": "Level 3", "value": "Rp 15.000", "link": "#" }
+      ]
+    },
+    "productB6": {
+      "title": "Product B6",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk B6.",
+      "prices": [
+        { "name": "Paket X", "value": "Rp 10.000", "link": "#" },
+        { "name": "Paket Y", "value": "Rp 20.000", "link": "#" },
+        { "name": "Paket Z", "value": "Rp 30.000", "link": "#" }
+      ]
+    },
+    "productC1": {
+      "title": "Product C1",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk C1.",
+      "prices": [
+        { "name": "Bronze", "value": "Rp 1.000", "link": "#" },
+        { "name": "Silver", "value": "Rp 2.000", "link": "#" },
+        { "name": "Gold", "value": "Rp 3.000", "link": "#" }
+      ]
+    },
+    "productC2": {
+      "title": "Product C2",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk C2.",
+      "prices": [
+        { "name": "1 hari", "value": "Rp 5.000", "link": "#" },
+        { "name": "7 hari", "value": "Rp 25.000", "link": "#" },
+        { "name": "30 hari", "value": "Rp 80.000", "link": "#" }
+      ]
+    },
+    "productC3": {
+      "title": "Product C3",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk C3.",
+      "prices": [
+        { "name": "Opsi A", "value": "Rp 10.000", "link": "#" },
+        { "name": "Opsi B", "value": "Rp 15.000", "link": "#" },
+        { "name": "Opsi C", "value": "Rp 20.000", "link": "#" }
+      ]
+    },
+    "productC4": {
+      "title": "Product C4",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk C4.",
+      "prices": [
+        { "name": "Paket 1", "value": "Rp 5.000", "link": "#" },
+        { "name": "Paket 2", "value": "Rp 10.000", "link": "#" },
+        { "name": "Paket 3", "value": "Rp 15.000", "link": "#" }
+      ]
+    },
+    "productC5": {
+      "title": "Product C5",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk C5.",
+      "prices": [
+        { "name": "Basic", "value": "Rp 8.000", "link": "#" },
+        { "name": "Premium", "value": "Rp 16.000", "link": "#" }
+      ]
+    },
+    "productC6": {
+      "title": "Product C6",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "description": "Deskripsi Produk C6.",
+      "prices": [
+        { "name": "S", "value": "Rp 1.000", "link": "#" },
+        { "name": "M", "value": "Rp 2.000", "link": "#" },
+        { "name": "L", "value": "Rp 3.000", "link": "#" },
+        { "name": "XL", "value": "Rp 4.000", "link": "#" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "banners": [
+    {
+      "url": "#",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "title": "JUDUL BANNER 1",
+      "description": "Deskripsi singkat untuk banner 1."
+    },
+    {
+      "url": "#",
+      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "title": "JUDUL BANNER 2",
+      "description": "Deskripsi singkat untuk banner 2."
+    }
+  ],
+  "categories": [
+    {
+      "title": "CHOOSE GAME TO TOPUP",
+      "links": [
+        {
+          "url": "#",
+          "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+          "title": "Mobile Legends"
+        },
+        {
+          "url": "#",
+          "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+          "title": "Magic Chess"
+        },
+        {
+          "url": "#",
+          "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+          "title": "PUBG Mobile"
+        },
+        {
+          "url": "#",
+          "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+          "title": "Free Fire"
+        },
+        {
+          "url": "#",
+          "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+          "title": "Genshin Impact"
+        }
+      ]
+    },
+    {
+      "title": "MLBB SERVICES",
+      "links": [
+        {
+          "url": "#",
+          "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+          "title": "Diamond MLBB"
+        },
+        {
+          "url": "#",
+          "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+          "title": "Joki Rank MLBB"
+        },
+        {
+          "url": "#",
+          "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/logo.jpg?raw=true",
+          "title": "Joki Magic Chess"
+        }
+      ]
+    }
+  ],
+  "social_buttons": [
+    {
+      "url": "https://instagram.com/",
+      "icon_class": "fab fa-instagram",
+      "text": "Instagram"
+    },
+    {
+      "url": "https://tiktok.com/",
+      "icon_class": "fab fa-tiktok",
+      "text": "TikTok"
+    }
+  ]
+}
