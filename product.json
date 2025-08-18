@@ -1,30 +1,37 @@
 {
   "products": {
     "productA1": {
-      "title": "Mobile Legends Malaysia",
+      "title": "Product A1",
       "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
       "description": "Ini adalah deskripsi lengkap untuk Produk A1. Dapatkan harga terbaik dan penawaran spesial hanya di toko kami. Produk ini tersedia dengan berbagai pilihan harga.",
       "prices": [
-        { "name": "14 Diamonds", "value": "Rm 1.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%20)" },
-        { "name": "28 Diamonds", "value": "Rm 2.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%28)" }
+        { "name": "50 Diamonds", "value": "Rp 10.000", "link": "#" },
+        { "name": "100 Diamonds", "value": "Rp 20.000", "link": "#" },
+        { "name": "200 Diamonds", "value": "Rp 40.000", "link": "#" },
+        { "name": "500 Diamonds", "value": "Rp 100.000", "link": "#" },
+        { "name": "1000 Diamonds", "value": "Rp 200.000", "link": "#" },
+        { "name": "2000 Diamonds", "value": "Rp 400.000", "link": "#" },
+        { "name": "5000 Diamonds", "value": "Rp 1.000.000", "link": "#" },
+        { "name": "10000 Diamonds", "value": "Rp 2.000.000", "link": "#" }
       ]
     },
     "productA2": {
-      "title": "Mobile Legends Indonesia",
+      "title": "Product A2",
       "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
       "description": "Deskripsi panjang untuk Produk A2. Kualitas terbaik dengan harga terjangkau. Cocok untuk semua kebutuhan Anda.",
       "prices": [
         { "name": "Item 1", "value": "Rp 5.000", "link": "#" },
-        { "name": "Item 2", "value": "Rp 8.000", "link": "#" }
-      ]  
+        { "name": "Item 2", "value": "Rp 8.000", "link": "#" },
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" }
+      ]
     },
     "productA3": {
-      "title": "Mobile Legends Brazil",
+      "title": "Product A3",
       "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
       "description": "Detail lengkap Produk A3. Nikmati fitur premium dengan harga spesial. Beli sekarang juga!",
       "prices": [
         { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
-        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" }
+        { "name": "Paket Pro", "value": "Rp 50.000", "link": "#" }
       ]
     },
     "productA4": {
