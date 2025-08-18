@@ -5,14 +5,14 @@
       "image": "https://i.postimg.cc/k4KSnpDY/20250818-171600.jpg",
       "description": "Ini adalah deskripsi lengkap untuk Produk A1. Dapatkan harga terbaik dan penawaran spesial hanya di toko kami. Produk ini tersedia dengan berbagai pilihan harga.",
       "prices": [
-        { "name": "50 Diamonds", "value": "Rp 10.000", "link": "#" },
-        { "name": "100 Diamonds", "value": "Rp 20.000", "link": "#" },
-        { "name": "200 Diamonds", "value": "Rp 40.000", "link": "#" },
-        { "name": "500 Diamonds", "value": "Rp 100.000", "link": "#" },
-        { "name": "1000 Diamonds", "value": "Rp 200.000", "link": "#" },
-        { "name": "2000 Diamonds", "value": "Rp 400.000", "link": "#" },
-        { "name": "5000 Diamonds", "value": "Rp 1.000.000", "link": "#" },
-        { "name": "10000 Diamonds", "value": "Rp 2.000.000", "link": "#" }
+        { "name": "14 Diamonds", "value": "Rm 1.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%14)" },
+        { "name": "70 Diamonds", "value": "Rm 5.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%70)" },
+        { "name": "168 Diamonds", "value": "Rm 12.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%168)" },
+        { "name": "284 Diamonds", "value": "Rm 19.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%284)" },
+        { "name": "355 Diamonds", "value": "Rm 24.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%355)" },
+        { "name": "569 Diamonds", "value": "Rm 39.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%569)" },
+        { "name": "716 Diamonds", "value": "Rm 49.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%716)" },
+        { "name": "1084 Diamonds", "value": "Rm 75.10", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%1084)" }
       ]
     },
     "productA2": {
@@ -22,6 +22,12 @@
       "prices": [
         { "name": "Item 1", "value": "Rp 5.000", "link": "#" },
         { "name": "Item 2", "value": "Rp 8.000", "link": "#" },
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
         { "name": "Item 3", "value": "Rp 12.000", "link": "#" }
       ]
     },
