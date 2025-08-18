@@ -2,7 +2,7 @@
   "products": {
     "productA1": {
       "title": "Mobile Legends Malaysia",
-      "image": "#",
+      "image": "https://i.postimg.cc/k4KSnpDY/20250818-171600.jpg",
       "description": "Ini adalah deskripsi lengkap untuk Produk A1. Dapatkan harga terbaik dan penawaran spesial hanya di toko kami. Produk ini tersedia dengan berbagai pilihan harga.",
       "prices": [
         { "name": "14 Diamonds", "value": "Rm 1.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%20)" },
@@ -21,7 +21,7 @@
     },
     "productA2": {
       "title": "Mobile Legends Indonesia",
-      "image": "#",
+      "image": "https://i.postimg.cc/k4KSnpDY/20250818-171600.jpg",
       "description": "Deskripsi panjang untuk Produk A2. Kualitas terbaik dengan harga terjangkau. Cocok untuk semua kebutuhan Anda.",
       "prices": [
         { "name": "Item 1", "value": "Rp 5.000", "link": "#" },
@@ -40,7 +40,7 @@
     },
     "productA3": {
       "title": "Mobile Legends Brazil",
-      "image": "#",
+      "image": "https://i.postimg.cc/k4KSnpDY/20250818-171600.jpg",
       "description": "Detail lengkap Produk A3. Nikmati fitur premium dengan harga spesial. Beli sekarang juga!",
       "prices": [
         { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
