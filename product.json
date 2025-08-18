@@ -36,12 +36,19 @@
       ]
     },
     "productA3": {
-      "title": "Product A3",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "title": "Mobile Legends Brazil",
+      "image": "https://i.postimg.cc/VNbrRV9s/20250818-171806.jpg",
       "description": "Detail lengkap Produk A3. Nikmati fitur premium dengan harga spesial. Beli sekarang juga!",
       "prices": [
         { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
-        { "name": "Paket Pro", "value": "Rp 50.000", "link": "#" }
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" }
       ]
     },
     "productA4": {
