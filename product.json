@@ -2,7 +2,7 @@
   "products": {
     "productA1": {
       "title": "Product A1",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "image": "https://i.postimg.cc/k4KSnpDY/20250818-171600.jpg",
       "description": "Ini adalah deskripsi lengkap untuk Produk A1. Dapatkan harga terbaik dan penawaran spesial hanya di toko kami. Produk ini tersedia dengan berbagai pilihan harga.",
       "prices": [
         { "name": "50 Diamonds", "value": "Rp 10.000", "link": "#" },
@@ -17,7 +17,7 @@
     },
     "productA2": {
       "title": "Product A2",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "image": "https://i.postimg.cc/m28H2M24/20250818-171732.jpg",
       "description": "Deskripsi panjang untuk Produk A2. Kualitas terbaik dengan harga terjangkau. Cocok untuk semua kebutuhan Anda.",
       "prices": [
         { "name": "Item 1", "value": "Rp 5.000", "link": "#" },
@@ -27,7 +27,7 @@
     },
     "productA3": {
       "title": "Product A3",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "image": "https://i.postimg.cc/VNbrRV9s/20250818-171806.jpg",
       "description": "Detail lengkap Produk A3. Nikmati fitur premium dengan harga spesial. Beli sekarang juga!",
       "prices": [
         { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
@@ -36,7 +36,7 @@
     },
     "productA4": {
       "title": "Product A4",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "image": "https://i.postimg.cc/VNbrRV9s/20250818-171806.jpg",
       "description": "Deskripsi Produk A4.",
       "prices": [
         { "name": "1 Unit", "value": "Rp 1.000", "link": "#" },
@@ -45,7 +45,7 @@
     },
     "productA5": {
       "title": "Product A5",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "image": "https://i.postimg.cc/VNbrRV9s/20250818-171806.jpg",
       "description": "Deskripsi Produk A5.",
       "prices": [
         { "name": "Paket X", "value": "Rp 15.000", "link": "#" },
@@ -54,7 +54,7 @@
     },
     "productA6": {
       "title": "Product A6",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "image": "https://i.postimg.cc/VNbrRV9s/20250818-171806.jpg",
       "description": "Deskripsi Produk A6.",
       "prices": [
         { "name": "Langganan Bulanan", "value": "Rp 75.000", "link": "#" },
