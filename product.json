@@ -27,7 +27,6 @@
         { "name": "356 Diamonds", "value": "Rm 26.10", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indonesia%20Diamond%20(%2014%20356💎%20)" },
         { "name": "568 Diamonds", "value": "Rm 39.40", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indonesia%20Diamond%20(%2014%20568💎%20)" },
         { "name": "716 Diamonds", "value": "Rm 50.70", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indoneisa%20Diamond%20(%2014%20716💎%20)" },
-        { "name": "790 Diamonds", "value": "Rm 56.10", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indonesia%20Diamond%20(%2014%20790💎%20)" },
         { "name": "1045 Diamonds", "value": "Rm 73.40", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indonesia%20Diamond%20(%2014%201045💎%20)" }
       ]
     },
@@ -43,7 +42,6 @@
         { "name": "429 Diamonds", "value": "Rm 21.30", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2014%20429💎%20)" },
         { "name": "516 Diamonds", "value": "Rm 25.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2014%20516💎%20)" },
         { "name": "706 Diamonds", "value": "Rm 34.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2014%20706💎%20)" },
-        { "name": "1050 Diamonds", "value": "Rm 50.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2014%201050💎%20)" },
         { "name": "1346 Diamonds", "value": "Rm 64.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2014%201346💎%20)" }
       ]
     },
@@ -53,6 +51,12 @@
       "description": "Deskripsi Produk A4.",
       "prices": [
         { "name": "1 Unit", "value": "Rp 1.000", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
         { "name": "5 Unit", "value": "Rp 4.500", "link": "#" }
       ]
     },
@@ -62,7 +66,13 @@
       "description": "Deskripsi Produk A5.",
       "prices": [
         { "name": "Paket X", "value": "Rp 15.000", "link": "#" },
-        { "name": "Paket Y", "value": "Rp 30.000", "link": "#" }
+        { "name": "Paket Y", "value": "Rp 30.000", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" }
       ]
     },
     "productA6": {
@@ -71,7 +81,13 @@
       "description": "Deskripsi Produk A6.",
       "prices": [
         { "name": "Langganan Bulanan", "value": "Rp 75.000", "link": "#" },
-        { "name": "Langganan Tahunan", "value": "Rp 750.000", "link": "#" }
+        { "name": "Langganan Tahunan", "value": "Rp 750.000", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" },
+        { "name": "5 Unit", "value": "Rp 4.500", "link": "#" }
       ]
     },
     "productB1": {
