@@ -20,12 +20,18 @@
       ]
     },
     "productA2": {
-      "title": "Product A2",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "title": "Mobile Legends Indonesia",
+      "image": "https://i.postimg.cc/m28H2M24/20250818-171732.jpg",
       "description": "Deskripsi panjang untuk Produk A2. Kualitas terbaik dengan harga terjangkau. Cocok untuk semua kebutuhan Anda.",
       "prices": [
         { "name": "Item 1", "value": "Rp 5.000", "link": "#" },
         { "name": "Item 2", "value": "Rp 8.000", "link": "#" },
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
         { "name": "Item 3", "value": "Rp 12.000", "link": "#" }
       ]
     },
