@@ -32,14 +32,20 @@
         { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
         { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
         { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
-        { "name": "Item 3", "value": "Rp 12.000", "link": "#" }
-      ]
+        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
+      ]  
     },
     "productA3": {
       "title": "Mobile Legends Brazil",
       "image": "#",
       "description": "Detail lengkap Produk A3. Nikmati fitur premium dengan harga spesial. Beli sekarang juga!",
       "prices": [
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
+        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
         { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
         { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
         { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
