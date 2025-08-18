@@ -1,18 +1,21 @@
 {
   "products": {
     "productA1": {
-      "title": "Product A1",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "title": "Mobile Legends Malaysia",
+      "image": "https://i.postimg.cc/k4KSnpDY/20250818-171600.jpg",
       "description": "Ini adalah deskripsi lengkap untuk Produk A1. Dapatkan harga terbaik dan penawaran spesial hanya di toko kami. Produk ini tersedia dengan berbagai pilihan harga.",
       "prices": [
-        { "name": "50 Diamonds", "value": "Rp 10.000", "link": "https://wa.me/601160900470?text=Mobile%20Legends" },
-        { "name": "100 Diamonds", "value": "Rp 20.000", "link": "#" },
-        { "name": "200 Diamonds", "value": "Rp 40.000", "link": "#" },
-        { "name": "500 Diamonds", "value": "Rp 100.000", "link": "#" },
-        { "name": "1000 Diamonds", "value": "Rp 200.000", "link": "#" },
-        { "name": "2000 Diamonds", "value": "Rp 400.000", "link": "#" },
-        { "name": "5000 Diamonds", "value": "Rp 1.000.000", "link": "#" },
-        { "name": "10000 Diamonds", "value": "Rp 2.000.000", "link": "#" }
+        { "name": "14 Diamonds", "value": "Rm 1.00", "link": "https://wa.me/601160900470?text=Mobile%20Legends" },
+        { "name": "28 Diamonds", "value": "Rm 2.00", "link": "#" },
+        { "name": "70 Diamonds", "value": "Rm 5.00", "link": "#" },
+        { "name": "168 Diamonds", "value": "Rm 12.00", "link": "#" },
+        { "name": "284 Diamonds", "value": "Rm 19.90", "link": "#" },
+        { "name": "355 Diamonds", "value": "Rm 24.90", "link": "#" },
+        { "name": "429 Diamonds", "value": "Rm 30.00", "link": "#" },
+        { "name": "569 Diamonds", "value": "Rm 39.80", "link": "#" },
+        { "name": "716 Diamonds", "value": "Rm 49.90", "link": "#" },
+        { "name": "1084 Diamonds", "value": "Rm 75.10", "link": "#" },
+        { "name": "1446 Diamonds", "value": "Rm 98.70", "link": "#" }
       ]
     },
     "productA2": {
