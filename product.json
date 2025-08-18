@@ -1,43 +1,50 @@
 {
   "products": {
     "productA1": {
-      "title": "Product A1",
+      "title": "Mobile Legends Malaysia",
       "image": "https://i.postimg.cc/k4KSnpDY/20250818-171600.jpg",
       "description": "Ini adalah deskripsi lengkap untuk Produk A1. Dapatkan harga terbaik dan penawaran spesial hanya di toko kami. Produk ini tersedia dengan berbagai pilihan harga.",
       "prices": [
-        { "name": "14 Diamonds", "value": "Rm 1.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%14)" },
-        { "name": "70 Diamonds", "value": "Rm 5.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%70)" },
-        { "name": "168 Diamonds", "value": "Rm 12.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%168)" },
-        { "name": "284 Diamonds", "value": "Rm 19.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%284)" },
-        { "name": "355 Diamonds", "value": "Rm 24.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%355)" },
-        { "name": "569 Diamonds", "value": "Rm 39.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%569)" },
-        { "name": "716 Diamonds", "value": "Rm 49.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%716)" },
-        { "name": "1084 Diamonds", "value": "Rm 75.10", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20💎%1084)" }
+        { "name": "14 Diamonds", "value": "Rm 1.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%2014💎%20)" },
+        { "name": "70 Diamonds", "value": "Rm 5.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%2070💎%20)" },
+        { "name": "168 Diamonds", "value": "Rm 12.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20168💎%20)" },
+        { "name": "284 Diamonds", "value": "Rm 19.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20284💎%20)" },
+        { "name": "355 Diamonds", "value": "Rm 24.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20355💎%20)" },
+        { "name": "569 Diamonds", "value": "Rm 39.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20569💎%20)" },
+        { "name": "716 Diamonds", "value": "Rm 49.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%20716💎%20)" },
+        { "name": "1084 Diamonds", "value": "Rm 75.10", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2014%201084💎%20)" }
       ]
     },
     "productA2": {
-      "title": "Product A2",
+      "title": "Mobile Legends Indonesia",
       "image": "https://i.postimg.cc/m28H2M24/20250818-171732.jpg",
       "description": "Deskripsi panjang untuk Produk A2. Kualitas terbaik dengan harga terjangkau. Cocok untuk semua kebutuhan Anda.",
       "prices": [
-        { "name": "Item 1", "value": "Rp 5.000", "link": "#" },
-        { "name": "Item 2", "value": "Rp 8.000", "link": "#" },
-        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
-        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
-        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
-        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
-        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
-        { "name": "Item 3", "value": "Rp 12.000", "link": "#" },
-        { "name": "Item 3", "value": "Rp 12.000", "link": "#" }
+        { "name": "14 Diamonds", "value": "Rm 1.08", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indonesia%20Diamond%20(%2014%2014💎%20)" },
+        { "name": "74 Diamonds", "value": "Rm 5.40", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indonesia%20Diamond%20(%2014%2074💎%20)" },
+        { "name": "184 Diamonds", "value": "Rm 13.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indonesia%20Diamond%20(%2014%20184💎%20)" },
+        { "name": "258 Diamonds", "value": "Rm 18.88", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indonesia%20Diamond%20(%2014%20258💎%20)" },
+        { "name": "356 Diamonds", "value": "Rm 26.10", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indonesia%20Diamond%20(%2014%20356💎%20)" },
+        { "name": "568 Diamonds", "value": "Rm 39.40", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indonesia%20Diamond%20(%2014%20568💎%20)" },
+        { "name": "716 Diamonds", "value": "Rm 50.70", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indoneisa%20Diamond%20(%2014%20716💎%20)" },
+        { "name": "790 Diamonds", "value": "Rm 56.10", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indonesia%20Diamond%20(%2014%20790💎%20)" },
+        { "name": "1045 Diamonds", "value": "Rm 73.40", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indonesia%20Diamond%20(%2014%201045💎%20)" }
       ]
     },
     "productA3": {
-      "title": "Product A3",
+      "title": "Mobile Legends Brazil",
       "image": "https://i.postimg.cc/VNbrRV9s/20250818-171806.jpg",
       "description": "Detail lengkap Produk A3. Nikmati fitur premium dengan harga spesial. Beli sekarang juga!",
       "prices": [
-        { "name": "Paket Basic", "value": "Rp 25.000", "link": "#" },
-        { "name": "Paket Pro", "value": "Rp 50.000", "link": "#" }
+        { "name": "86 Diamonds", "value": "Rm 4.40", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2014%2086💎%20)" },
+        { "name": "172 Diamonds", "value": "Rm 8.60", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2014%20172💎%20)" },
+        { "name": "257 Diamonds", "value": "Rm 12.80", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2014%20257💎%20)" },
+        { "name": "344 Diamonds", "value": "Rm 15.80", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2014%20344💎%20)" },
+        { "name": "429 Diamonds", "value": "Rm 21.30", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2014%20429💎%20)" },
+        { "name": "516 Diamonds", "value": "Rm 25.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2014%20516💎%20)" },
+        { "name": "706 Diamonds", "value": "Rm 34.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2014%20706💎%20)" },
+        { "name": "1050 Diamonds", "value": "Rm 50.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2014%201050💎%20)" },
+        { "name": "1346 Diamonds", "value": "Rm 64.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2014%201346💎%20)" }
       ]
     },
     "productA4": {
