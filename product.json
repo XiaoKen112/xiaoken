@@ -91,13 +91,18 @@
       ]
     },
     "productB1": {
-      "title": "Product B1",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "title": "Genshin Impact",
+      "image": "https://i.postimg.cc/yx3bVD1r/20250817-234823.jpg",
       "description": "Deskripsi Produk B1.",
       "prices": [
-        { "name": "Opsi 1", "value": "Rp 2.500", "link": "#" },
-        { "name": "Opsi 2", "value": "Rp 5.000", "link": "#" },
-        { "name": "Opsi 3", "value": "Rp 10.000", "link": "#" }
+        { "name": "1x Blessing Welkin Moon", "value": "Rm 16.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Genshin%20Impact%20(%201x%20Welkin%20)" },
+        { "name": "2x Blessing Welkin Moon", "value": "Rm 32.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Genshin%20Impact%20(%202x%20Welkin%20)" },
+        { "name": "60 Crystal", "value": "Rm 3.10", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Genshin%20Impact%20(%2060%20Genesis%20Crystal%20)" },
+        { "name": "330 Crystal", "value": "Rm 15.40", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Genshin%20Impact%20(%20330%20Genesis%20Crystal%20)" },
+        { "name": "1090 Crystal", "value": "Rm 47.20", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Genshin%20Impact%20(%201090%20Genesis%20Crystal%20)" },
+        { "name": "2240 Crystal", "value": "Rm 100.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Genshin%20Impact%20(%202240%20Genesis%20Crystal%20)" },
+        { "name": "3880 Crystal", "value": "Rm 165.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Genshin%20Impact%20(%203880%20Genesis%20Crystal%20)" },
+        { "name": "8080 Crystal", "value": "Rm 312.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Genshin%20Impact%20(%208080%20Genesis%20Crystal%20)" }
       ]
     },
     "productB2": {
@@ -110,13 +115,16 @@
       ]
     },
     "productB3": {
-      "title": "Product B3",
+      "title": "PUBG Mobile Global",
       "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
       "description": "Deskripsi Produk B3.",
       "prices": [
-        { "name": "Small", "value": "Rp 1.000", "link": "#" },
-        { "name": "Medium", "value": "Rp 2.000", "link": "#" },
-        { "name": "Large", "value": "Rp 3.000", "link": "#" }
+        { "name": "60 UC", "value": "Rm 4.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20PUBG%20Mobile%20Malaysia/Global%20(%2060%20UC%20)" },
+        { "name": "325 UC", "value": "Rm 19.70", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20PUBG%20Mobile%20Malaysia/Global%20(%20325%20UC%20)" },
+        { "name": "660 UC", "value": "Rm 39.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20PUBG%20Mobile%20Malaysia/Global%20(%20660%20UC%20)" },
+        { "name": "1800 UC", "value": "Rm 98.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20PUBG%20Mobile%20Malaysia/Global%20(%201800%20UC%20)" },
+        { "name": "3850 UC", "value": "Rm 197.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20PUBG%20Mobile%20Malaysia/Global%20(%203850%20UC%20)" },
+        { "name": "8100 UC", "value": "Rm 400.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20PUBG%20Mobile%20Malaysia/Global%20(%208100%20UC%20)" }
       ]
     },
     "productB4": {
