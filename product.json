@@ -106,12 +106,22 @@
       ]
     },
     "productB2": {
-      "title": "Product B2",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "title": "Free Fire Malaysia",
+      "image": "https://i.postimg.cc/1zMrnwJY/20250817-234358.jpg",
       "description": "Deskripsi Produk B2.",
       "prices": [
-        { "name": "Promo B2", "value": "Rp 5.000", "link": "#" },
-        { "name": "Standar B2", "value": "Rp 7.500", "link": "#" }
+        { "name": "25 Diamonds", "value": "Rm 1.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Free%20Fire%20Malaysia%20(%202520%20Diamonds%20)" },
+        { "name": "100 Diamonds", "value": "Rm 3.60", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Free%20Fire%20Malaysia%20(%20100%20Diamonds%20)" },
+        { "name": "300 Diamonds", "value": "Rm 10.40", "link":"https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Free%20Fire%20Malaysia%20(%20300%20Diamonds%20)" },
+        { "name": "520 Diamonds", "value": "Rm 18.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Free%20Fire%20Malaysia%20(%20520%20Diamonds%20)" },
+        { "name": "830 Diamonds", "value": "Rm 28.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Free%20Fire%20Malaysia%20(%20830%20Diamonds%20)" },
+        { "name": "930 Diamonds", "value": "Rm 31.40", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Free%20Fire%20Malaysia%20(%20930%20Diamonds%20)" },
+        { "name": "1060 Diamonds", "value": "Rm 35.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Free%20Fire%20Malaysia%20(%201060%20Diamonds%20)" },
+        { "name": "2180 Diamonds", "value": "Rm 70.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Free%20Fire%20Malaysia%20(%202180%20Diamonds%20)" },
+        { "name": "Weekly Lite", "value": "Rm 1.30", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Free%20Fire%20Malaysia%20(%201x%20Weekly%20Lite%20)" },
+        { "name": "Evo Access", "value": "Rm 2.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Free%20Fire%20Malaysia%20(%201x%20Evo%20Access%20)" },
+        { "name": "Leval Up Pass", "value": "Rm 14.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Free%20Fire%20Malaysia%20(%201x%20Evo%20Access%20)" },
+        { "name": "Monthly Pass", "value": "Rm 30.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Free%20Fire%20Malaysia%20(%201x%20Monthly%20Pass%20)" }
       ]
     },
     "productB3": {
