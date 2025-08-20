@@ -152,7 +152,7 @@
     },
     "productC1": {
       "title": "Product C1",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "image": "",
       "description": "Deskripsi Produk C1.",
       "prices": [
         { "name": "Bronze", "value": "Rp 1.000", "link": "#" },
@@ -162,7 +162,7 @@
     },
     "productC2": {
       "title": "Product C2",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "image": "",
       "description": "Deskripsi Produk C2.",
       "prices": [
         { "name": "1 hari", "value": "Rp 5.000", "link": "#" },
@@ -172,7 +172,7 @@
     },
     "productC3": {
       "title": "Product C3",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "image": "",
       "description": "Deskripsi Produk C3.",
       "prices": [
         { "name": "Opsi A", "value": "Rp 10.000", "link": "#" },
@@ -182,7 +182,7 @@
     },
     "productC4": {
       "title": "Product C4",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "image": "",
       "description": "Deskripsi Produk C4.",
       "prices": [
         { "name": "Paket 1", "value": "Rp 5.000", "link": "#" },
@@ -192,7 +192,7 @@
     },
     "productC5": {
       "title": "Product C5",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "image": "",
       "description": "Deskripsi Produk C5.",
       "prices": [
         { "name": "Basic", "value": "Rp 8.000", "link": "#" },
@@ -201,7 +201,7 @@
     },
     "productC6": {
       "title": "Product C6",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "image": "",
       "description": "Deskripsi Produk C6.",
       "prices": [
         { "name": "S", "value": "Rp 1.000", "link": "#" },
