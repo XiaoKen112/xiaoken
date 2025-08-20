@@ -150,31 +150,6 @@
         { "name": "11000 VP", "value": "Rm 328.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Valorant%20Malaysia/Global%20(%2-11000%20VP%20)" }
       ]
     },
-    "productB5": {
-      "title": "Product B5",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
-      "description": "Deskripsi Produk B5.",
-      "prices": [
-        { "name": "Level 1", "value": "Rp 5.000", "link": "#" },
-        { "name": "Level 2", "value": "Rp 9.000", "link": "#" },
-        { "name": "Level 3", "value": "Rp 15.000", "link": "#" }
-      ]
-    },
-    "productB6": {
-      "title": "Mobile Legends Thailand",
-      "image": "https://i.postimg.cc/nhTSVSN0/20250819-194707.jpg",
-      "description": "Deskripsi Produk B6.",
-      "prices": [
-        { "name": "22 Diamonds", "value": "Rm 1.30", "link": "#" },
-        { "name": "112 Diamonds", "value": "Rm 6.80", "link": "#" },
-        { "name": "223 Diamonds", "value": "Rm 13.40", "link": "#" },
-        { "name": "336 Diamonds", "value": "Rm 19.40", "link": "#" },
-        { "name": "570 Diamonds", "value": "Rm 32.60", "link": "#" },
-        { "name": "1163 Diamonds", "value": "Rm 66.90", "link": "#" },
-        { "name": "2398 Diamonds", "value": "Rm 135.90", "link": "#" },
-        { "name": "6042 Diamonds", "value": "Rm 334.50", "link": "#" }
-      ]
-    },
     "productC1": {
       "title": "Product C1",
       "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
