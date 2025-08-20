@@ -138,12 +138,16 @@
       ]
     },
     "productB4": {
-      "title": "Product B4",
-      "image": "https://github.com/YanaMiku-Project/database-public/blob/main/image/cover.png?raw=true",
+      "title": "Valorant Malaysia",
+      "image": "https://i.postimg.cc/mrWfmzfw/20250820-200404.jpg",
       "description": "Deskripsi Produk B4.",
       "prices": [
-        { "name": "Opsi A", "value": "Rp 20.000", "link": "#" },
-        { "name": "Opsi B", "value": "Rp 35.000", "link": "#" }
+        { "name": "475 VP", "value": "Rm 17.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Valorant%20Malaysia/Global%20(%20475%20VP%20)" },
+        { "name": "1000 VP", "value": "Rm 35.20", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Valorant%20Malaysia/Global%20(%201000%20VP%20)" },
+        { "name": "2050 VP", "value": "Rm 66.20", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Valorant%20Malaysia/Global%20(%202050%20VP%20)" },
+        { "name": "3650 VP", "value": "Rm 115.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Valorant%20Malaysia/Global%20(%203650%20VP%20)" },
+        { "name": "5350 VP", "value": "Rm 165.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Valorant%20Malaysia/Global%20(%205350%20VP%20)" },
+        { "name": "11000 VP", "value": "Rm 328.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Valorant%20Malaysia/Global%20(%2-11000%20VP%20)" }
       ]
     },
     "productB5": {
