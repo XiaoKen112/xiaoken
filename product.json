@@ -147,17 +147,16 @@
         { "name": "2050 VP", "value": "Rm 66.20", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Valorant%20Malaysia/Global%20(%202050%20VP%20)" },
         { "name": "3650 VP", "value": "Rm 115.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Valorant%20Malaysia/Global%20(%203650%20VP%20)" },
         { "name": "5350 VP", "value": "Rm 165.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Valorant%20Malaysia/Global%20(%205350%20VP%20)" },
-        { "name": "11000 VP", "value": "Rm 328.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Valorant%20Malaysia/Global%20(%2-11000%20VP%20)" }
+        { "name": "11000 VP", "value": "Rm 328.90", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Valorant%20Malaysia/Global%20(%2011000%20VP%20)" }
       ]
     },
     "productC1": {
-      "title": "Product C1",
-      "image": "",
-      "description": "Deskripsi Produk C1.",
+      "title": "Alight Motion Premium",
+      "image": "https://i.postimg.cc/Y0MTDxdF/IMG-20250809-WA0445-3.jpg",
+      "description": "Benefits (Sharing/Private)<br>1.No Watermark<br>2.Akses Fitur Premium<br>3.Email dari seller<br>Pakai AM dari Playstore.",
       "prices": [
-        { "name": "Bronze", "value": "Rp 1.000", "link": "#" },
-        { "name": "Silver", "value": "Rp 2.000", "link": "#" },
-        { "name": "Gold", "value": "Rp 3.000", "link": "#" }
+        { "name": "1 Tahun (Sharing)", "value": "Rm 3.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Alight%20Motion%20Premium%201%20Tahun%20(Sharing)" },
+        { "name": "1 Tahun (Private)", "value": "Rm 7.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Alight%20Motion%20Premium%201%20Tahun%20(Private)" }
       ]
     },
     "productC2": {
