@@ -3,7 +3,7 @@
     "productA1": {
       "title": "Mobile Legends Malaysia",
       "image": "https://i.postimg.cc/k4KSnpDY/20250818-171600.jpg",
-      "description": "",
+      "description": "Process : 1 - 5 minute",
       "prices": [
         { "name": "14 Diamonds", "value": "Rm 1.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%(%2014💎%20)" },
         { "name": "70 Diamonds", "value": "Rm 5.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Malaysia%20Diamond%20(%2070💎%20)" },
@@ -18,7 +18,7 @@
     "productA2": {
       "title": "Mobile Legends Indonesia",
       "image": "https://i.postimg.cc/m28H2M24/20250818-171732.jpg",
-      "description": "",
+      "description": "Process : 1 - 5 minute",
       "prices": [
         { "name": "14 Diamonds", "value": "Rm 1.08", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indonesia%20Diamond%20(%2014💎%20)" },
         { "name": "74 Diamonds", "value": "Rm 5.40", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Indonesia%20Diamond%20(%2074💎%20)" },
@@ -33,7 +33,7 @@
     "productA3": {
       "title": "Mobile Legends Brazil",
       "image": "https://i.postimg.cc/VNbrRV9s/20250818-171806.jpg",
-      "description": "",
+      "description": "Process : 1 - 5 minute",
       "prices": [
         { "name": "86 Diamonds", "value": "Rm 4.40", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%2086💎%20)" },
         { "name": "172 Diamonds", "value": "Rm 8.60", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Brazil%20Diamond%20(%20172💎%20)" },
@@ -48,7 +48,7 @@
     "productA4": {
       "title": "Mobile Legends Philippines",
       "image": "https://i.postimg.cc/qBGJLKqP/20250819-190422.jpg",
-      "description": "",
+      "description": "Process : 1 - 5 minute",
       "prices": [
         { "name": "22 Diamonds", "value": "Rm 1.40 ", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Philippines%20Diamond%20(%2022💎%20)" },
         { "name": "112 Diamonds", "value": "Rm 6.70", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Philippines%20Diamond%20(%20112💎%20)" },
@@ -63,7 +63,7 @@
     "productA5": {
       "title": "Mobile Legends Global",
       "image": "https://i.postimg.cc/SxjqGtY5/20250819-190639.jpg",
-      "description": "",
+      "description": "Process : 1 - 5 minute",
       "prices": [
         { "name": "22 Diamonds", "value": "Rm 1.30", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Global%20Diamond%20(%2022💎%20)" },
         { "name": "86 Diamonds", "value": "Rm 5.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Global%20Diamond%20(%2086💎%20)" },
@@ -78,7 +78,7 @@
     "productA6": {
       "title": "Mobile Legends Thailand",
       "image": "https://i.postimg.cc/nhTSVSN0/20250819-194707.jpg",
-      "description": "",
+      "description": "Process : 1 - 5 minute",
       "prices": [
         { "name": "22 Diamonds", "value": "Rm 1.30 ", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Thailand%20Diamond%20(%2022💎%20)" },
         { "name": "112 Diamonds", "value": "Rm 6.80", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Thailand%20Diamond%20(%20112💎%20)" },
@@ -93,7 +93,7 @@
     "productB1": {
       "title": "Genshin Impact",
       "image": "https://i.postimg.cc/V6g2KvhL/ddd67a00297de983b9c275294f4e66b6.jpg",
-      "description": "",
+      "description": "Process : 1 - 10 minute",
       "prices": [
         { "name": "1x Blessing Welkin Moon", "value": "Rm 16.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Genshin%20Impact%20(%201x%20Welkin%20)" },
         { "name": "2x Blessing Welkin Moon", "value": "Rm 32.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Genshin%20Impact%20(%202x%20Welkin%20)" },
@@ -108,7 +108,7 @@
     "productB2": {
       "title": "Free Fire Malaysia",
       "image": "https://i.postimg.cc/Hnjv325B/9baa66a3fb33bfcea3e8b791dee5d1c7.jpg",
-      "description": "",
+      "description": "Process : 1 - 10 minute",
       "prices": [
         { "name": "25 Diamonds", "value": "Rm 1.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Free%20Fire%20Malaysia%20(%202520%20Diamonds%20)" },
         { "name": "100 Diamonds", "value": "Rm 3.60", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Free%20Fire%20Malaysia%20(%20100%20Diamonds%20)" },
@@ -127,7 +127,7 @@
     "productB3": {
       "title": "PUBG Mobile Global",
       "image": "https://i.postimg.cc/0N24bPQT/516a74d6d701c86c007f668d7cf2891a.jpg",
-      "description": "",
+      "description": "Process : 1 - 5 minute",
       "prices": [
         { "name": "60 UC", "value": "Rm 4.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20PUBG%20Mobile%20Malaysia/Global%20(%2060%20UC%20)" },
         { "name": "325 UC", "value": "Rm 19.70", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20PUBG%20Mobile%20Malaysia/Global%20(%20325%20UC%20)" },
@@ -140,7 +140,7 @@
     "productB4": {
       "title": "Valorant Malaysia",
       "image": "https://i.postimg.cc/C1xcLNvS/92511cdffca01187823a36026285892b.jpg",
-      "description": "",
+      "description": "Process : 1 - 5 minute",
       "prices": [
         { "name": "475 VP", "value": "Rm 17.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Valorant%20Malaysia/Global%20(%20475%20VP%20)" },
         { "name": "1000 VP", "value": "Rm 35.20", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Valorant%20Malaysia/Global%20(%201000%20VP%20)" },
@@ -153,7 +153,7 @@
     "productC1": {
       "title": "Alight Motion Premium",
       "image": "https://i.postimg.cc/Y0MTDxdF/IMG-20250809-WA0445-3.jpg",
-      "description": "",
+      "description": "Email daripada seller. Original premium from apps store",
       "prices": [
         { "name": "1 Tahun (Sharing)", "value": "Rm 3.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Alight%20Motion%20Premium%201%20Tahun%20(Sharing)" },
         { "name": "1 Tahun (Private)", "value": "Rm 7.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Alight%20Motion%20Premium%201%20Tahun%20(Private)" }
