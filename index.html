@@ -683,7 +683,7 @@
         productSectionsContainer.innerHTML = ''; 
 
         const categoryGrids = {
-            'Category A': [],
+            'Mobile Legends': [],
             'Category B': [],
             'Category C': []
         };
@@ -691,7 +691,7 @@
         Object.entries(productsData).forEach(([productId, product]) => {
             let category;
             if (productId.startsWith('productA')) {
-                category = 'Category A';
+                category = 'Mobile Legends';
             } else if (productId.startsWith('productB')) {
                 category = 'Category B';
             } else if (productId.startsWith('productC')) {
