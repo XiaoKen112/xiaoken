@@ -96,7 +96,7 @@
       "description": "Via addfriends 7 - 10 days",
       "prices": [
         { "name": "Beatrix FMVP", "value": "Rm 24.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Mobile%20Legends%20Skin%20(%20Beatrix%20FMVP%20)" },
-        { "name": "Lunox MPL", "value": "Rm 20.00", "Link": "https://wa.me/601160900470" }
+        { "name": "Lunox MPL", "value": "Rm 20.00", "Link": "#" }
       ]
     },
     "productB1": {
