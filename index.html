@@ -684,8 +684,8 @@
 
         const categoryGrids = {
             'Mobile Legends': [],
-            'Category B': [],
-            'Category C': []
+            'Games': [],
+            'Apps Premium': []
         };
         
         Object.entries(productsData).forEach(([productId, product]) => {
@@ -693,9 +693,9 @@
             if (productId.startsWith('productA')) {
                 category = 'Mobile Legends';
             } else if (productId.startsWith('productB')) {
-                category = 'Category B';
+                category = 'Games';
             } else if (productId.startsWith('productC')) {
-                category = 'Category C';
+                category = 'Apps Premium';
             }
 
             // ⬇️ Menggunakan kelas `scroll-item` untuk horizontal scrolling
