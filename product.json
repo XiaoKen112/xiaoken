@@ -153,60 +153,19 @@
     "productC1": {
       "title": "Alight Motion Premium",
       "image": "https://i.postimg.cc/Y0MTDxdF/IMG-20250809-WA0445-3.jpg",
-      "description": "Email daripada seller. Original premium from apps store",
+      "description": "Email daripada seller. Original apps from playstore",
       "prices": [
-        { "name": "1 Tahun (Sharing)", "value": "Rm 3.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Alight%20Motion%20Premium%201%20Tahun%20(Sharing)" },
-        { "name": "1 Tahun (Private)", "value": "Rm 7.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Alight%20Motion%20Premium%201%20Tahun%20(Private)" }
+        { "name": "1 Tahun (Sharing)", "value": "Rm 3.50", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Alight%20Motion%20Premium%201%20Year%20(Sharing)" },
+        { "name": "1 Tahun (Private)", "value": "Rm 7.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Alight%20Motion%20Premium%201%20Year%20(Private)" }
       ]
     },
     "productC2": {
-      "title": "Product C2",
-      "image": "",
-      "description": "Deskripsi Produk C2.",
+      "title": "Canva Premium",
+      "image": "https://i.postimg.cc/N0stpg2j/IMG-20250809-WA0449-3.jpg",
+      "description": "Email from supplier. Original apps from Playstore.",
       "prices": [
-        { "name": "1 hari", "value": "Rp 5.000", "link": "#" },
-        { "name": "7 hari", "value": "Rp 25.000", "link": "#" },
-        { "name": "30 hari", "value": "Rp 80.000", "link": "#" }
-      ]
-    },
-    "productC3": {
-      "title": "Product C3",
-      "image": "",
-      "description": "Deskripsi Produk C3.",
-      "prices": [
-        { "name": "Opsi A", "value": "Rp 10.000", "link": "#" },
-        { "name": "Opsi B", "value": "Rp 15.000", "link": "#" },
-        { "name": "Opsi C", "value": "Rp 20.000", "link": "#" }
-      ]
-    },
-    "productC4": {
-      "title": "Product C4",
-      "image": "",
-      "description": "Deskripsi Produk C4.",
-      "prices": [
-        { "name": "Paket 1", "value": "Rp 5.000", "link": "#" },
-        { "name": "Paket 2", "value": "Rp 10.000", "link": "#" },
-        { "name": "Paket 3", "value": "Rp 15.000", "link": "#" }
-      ]
-    },
-    "productC5": {
-      "title": "Product C5",
-      "image": "",
-      "description": "Deskripsi Produk C5.",
-      "prices": [
-        { "name": "Basic", "value": "Rp 8.000", "link": "#" },
-        { "name": "Premium", "value": "Rp 16.000", "link": "#" }
-      ]
-    },
-    "productC6": {
-      "title": "Product C6",
-      "image": "",
-      "description": "Deskripsi Produk C6.",
-      "prices": [
-        { "name": "S", "value": "Rp 1.000", "link": "#" },
-        { "name": "M", "value": "Rp 2.000", "link": "#" },
-        { "name": "L", "value": "Rp 3.000", "link": "#" },
-        { "name": "XL", "value": "Rp 4.000", "link": "#" }
+        { "name": "1 Bulan", "value": "Rm 4.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Canva%20Premium%201%20Month" },
+        { "name": "1 Tahun", "value": "Rp 8.00", "link": "https://wa.me/601160900470?text=Hallo,%20I%20would%20like%20to%20buy%20Canva%20Premium%201%20Year" }
       ]
     }
   }
